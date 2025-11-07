@@ -1,1 +1,8 @@
+Title: Profile photo is displayed corrupted
 
+Steps:
+1. Log in to the system
+2. Pay attention to the profile logo
+
+AR: profile photo is displayed corrupted
+ER: profile photo is displayed
